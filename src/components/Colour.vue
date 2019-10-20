@@ -20,8 +20,8 @@ export default {
 
 <style scoped>
 .colour-container {
-  width: 100px;
-  height: 100px;
-  border-radius: 7px;
+  width: 6vw;
+  height: 6vw;
+  border-radius: 0.4vw;
 }
 </style>
